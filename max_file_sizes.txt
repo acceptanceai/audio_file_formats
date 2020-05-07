@@ -1,0 +1,12 @@
+# max file sizes 
+
+
+# size:website
+
+ - soundcloud.com
+ 
+    - max file/track size
+      - 4GB
+      
+    - max file/track length
+      - 405 minutes (6 hours, 45 minutes)
